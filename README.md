@@ -54,10 +54,10 @@ An interface is build around the model for demonstration purposes, and an interf
 ## Getting Started
 
 1. [Clone this repo](https://github.com/JesseLuBass/real_estate_estimator.git)
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Model generation scripts are being kept [here]()
-5. For a demonstration of the interface, you can either view the static capture of the application [here] or contact [me] for a live demo.
+2. Raw Data is being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/data_raw) within this repo.
+3. Data processing/transformation scripts are being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/data_preprocessing)
+4. Model generation scripts are being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/model_evaluation)
+5. For a demonstration of the interface, you can either view the static capture of the application [here] or contact [me](jesse.lu95@gmail.com) for a live demo.
 
 
 There should be a minimal amount of setup required. Besides the standard libraries(Pandas, Sklearn, Etc.), all dependencies can be installed by just following the scripts alone
@@ -65,7 +65,7 @@ There should be a minimal amount of setup required. Besides the standard librari
 ## Featured Notebooks/Analysis/Deliverables
 * [Presentation on deliverables](link)
 * [Keynotes and in-depth description of the app](link)
-* [Documentation of model evaluation and testing](link)
+* [Documentation of model evaluation and testing](https://github.com/JesseLuBass/real_estate_estimator/tree/main/documentation)
 
 
 
