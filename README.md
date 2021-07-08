@@ -10,7 +10,7 @@ The purpose of this project is to create a landing page data application for Bri
 
 ### Partner
 * Bridgestone Realty, Ltd
-* Partner contact: [Liu Jian], [liu.jian@gmail.com]
+* Partner contact: [Liu Jian], (luteryi@hotmail.com)
 
 
 ### Methods Used
@@ -57,7 +57,7 @@ An interface is build around the model for demonstration purposes, and an interf
 2. Raw Data is being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/data_raw) within this repo.
 3. Data processing/transformation scripts are being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/data_preprocessing)
 4. Model generation scripts are being kept [here](https://github.com/JesseLuBass/real_estate_estimator/tree/main/model_evaluation)
-5. For a demonstration of the interface, you can either view the static capture of the application [here] or contact [me](jesse.lu95@gmail.com) for a live demo.
+5. For a demonstration of the interface, you can either view the static capture of the application [here](https://github.com/JesseLuBass/real_estate_estimator/blob/main/documentation/app_screencap.pdf) or contact [me](jesse.lu95@gmail.com) for a live demo.
 
 
 There should be a minimal amount of setup required. Besides the standard libraries(Pandas, Sklearn, Etc.), all dependencies can be installed by just following the scripts alone
