@@ -1,0 +1,2 @@
+Due to privacy and anoymity concerns, the data_raw.csv has removed information and fields that would otherwise be used within the model evaluation and trainning.
+Please contact me on how these information that were removed are processed and reconfigured to a more secured format. 
