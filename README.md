@@ -4,6 +4,7 @@
 This project is a part of the [Data Science Program](https://www.lighthouselabs.ca/en/data-science-bootcamp) at [Lighthouse Labs, Vancouver](https://www.lighthouselabs.ca).  
 
 #### -- Project Status: [Active]
+Developing front-end interface for model prediction [here](https://github.com/JesseLuBass/real_estate_estimator/blob/main/documentation/app_screencap.pdf)
 
 ## Project Intro/Objective
 The purpose of this project is to create a landing page data application for Bridgestone Realty, ltd. The model application, using proprietary data from the Paragon MLS portal, gives accurate listing evaluation of real estate properties within the Greater Vancouver Area to a Median Average Error of 50578 CAD, based upon custom imput from the users. The machine learning capabilities of the application and the consequent interface allows the model to constantly stay up-to-date on predictive real estate trend within Vancouver. Its ability to instantly provide accurate evaluation also creates a starting place for the realtor and any potential customers in further partnership. 
