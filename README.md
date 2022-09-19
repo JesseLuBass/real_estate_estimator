@@ -11,7 +11,7 @@ The purpose of this project is to create a landing page data application for Bri
 
 ### Partner
 * Bridgestone Property Corp, Ltd
-* Partner contact: [Liu Jian](liujian@hotmail.com)
+* Partner contact: [Liu Jian](7782885643)
 
 
 ### Methods Used
