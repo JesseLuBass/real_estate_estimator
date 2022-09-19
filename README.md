@@ -1,8 +1,5 @@
 
 
-# Vancouver Real Estate Estimator
-This project is a part of the [Data Science Program](https://www.lighthouselabs.ca/en/data-science-bootcamp) at [Lighthouse Labs, Vancouver](https://www.lighthouselabs.ca).  
-
 #### -- Project Status: [Active]
 Developing front-end interface for model prediction [here](https://github.com/JesseLuBass/real_estate_estimator/blob/main/documentation/app_screencap.pdf)
 
